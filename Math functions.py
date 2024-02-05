@@ -12,6 +12,7 @@ print(k)
 # power of variable
 # x: A number, the base
 # y: A number, the exponent
+
 # z: Optional. A number, the modulus
 
 x = pow(4, 2)  # Return the value of 4 to the power of 2
